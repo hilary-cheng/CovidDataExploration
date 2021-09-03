@@ -1,4 +1,4 @@
-Select *
+Select * 
     FROM master..CovidDeaths
 order by 3,4
 
